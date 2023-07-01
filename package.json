@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot-boilerplate-v14",
+  "version": "1.0.0",
+  "description": "a very flexible boilerplate which gives which ever discord bot you are making an advanced structure and makes it easy to tinker with",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pro-Gamer-711-YT/Discord-Bot-Boilerplate-v14.git"
+  },
+  "keywords": [
+    "Discord",
+    "Boilerplate",
+    "Advanced",
+    "Discord.js",
+    "Discord-Bot"
+  ],
+  "author": "Vignan Chowdary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pro-Gamer-711-YT/Discord-Bot-Boilerplate-v14/issues"
+  },
+  "homepage": "https://github.com/Pro-Gamer-711-YT/Discord-Bot-Boilerplate-v14#readme"
+}
