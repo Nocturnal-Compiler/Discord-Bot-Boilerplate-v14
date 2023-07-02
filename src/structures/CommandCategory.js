@@ -14,9 +14,4 @@ module.exports = {
       image: "https://www.pinclipart.com/picdir/middle/531-5318253_web-designing-icon-png-clipart.png",
       emoji: "🤴",
     },
-    SOCIAL: {
-      name: "Social",
-      image: "https://icons.iconarchive.com/icons/dryicons/aesthetica-2/128/community-users-icon.png",
-      emoji: "🫂",
-    },
   };
